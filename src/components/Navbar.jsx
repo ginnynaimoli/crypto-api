@@ -1,7 +1,7 @@
 import { Avatar, Button, Menu, Typography } from 'antd'
 import { Link } from 'react-router-dom'
 import React, { useEffect, useState } from 'react'
-import { BulbOutlined, FundOutlined, HomeOutlined, MenuOutlined, MenuUnfoldOutlined } from '@ant-design/icons'
+import { BulbOutlined, FundOutlined, HomeOutlined, MenuOutlined } from '@ant-design/icons'
 
 import icon from '../images/blue.png'
 
